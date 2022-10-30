@@ -77,6 +77,8 @@ body {
 }
 .profil-container .profil a .profil-card img {
   border-radius: 8px;
+  width: 128px;
+  height: auto;
   -o-object-fit: cover;
      object-fit: cover;
 }
